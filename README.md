@@ -19,6 +19,6 @@ A CSC649 project proposal that explores how Natural Language Processing (NLP) co
 
 ## Contact
 
-- GitHub: [@hayateizlyn](https://github.com/hayateizlyn)
-- Email: n.hayatieizlyn@gmail.coom
+- GitHub: [@hayateizlyn](https://github.com/hayateizlynn)
+- Email: hayatieizlyn96@gmail.coom
 
